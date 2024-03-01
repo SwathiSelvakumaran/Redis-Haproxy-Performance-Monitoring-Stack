@@ -22,8 +22,9 @@ Cache hit rate: keyspace_hits and keyspace_misses
 Network throughput: instantaneous_input_kbps and instantaneous_output_kbps
 Persistence:  rdb_last_bgsave_time_sec and aof_last_bgrewrite_time_sec
 
-Sample redis performance metrics dashboard:
+Redis performance metrics dashboard:
 
+![image](https://github.com/SwathiSelvakumaran/System-performance-metrics-analysis/assets/73472775/a24e5360-bb77-42c7-92a4-702b4ef499de)
 
 
 Haproxy performance metrics:
