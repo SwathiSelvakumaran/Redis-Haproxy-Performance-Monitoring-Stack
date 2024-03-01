@@ -43,3 +43,5 @@ Performance metrics that can be verified by selecting the attributes:
 3. Latency: haproxy.total_waiting_time_ms
 4. Load balancing: haproxy.server_name, haproxy.server_queue, haproxy.time_queue
 
+![image](https://github.com/SwathiSelvakumaran/System-performance-metrics-analysis/assets/73472775/ece5daac-d989-45cb-a63f-11b8cdc9bee0)
+
